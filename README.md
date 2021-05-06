@@ -1,4 +1,4 @@
-# Welcome to ENCORA TEST
+# Welcome to Redux Demo
 # Login Credentials ===> 
 
 userName==> encoraTest
